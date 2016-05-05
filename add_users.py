@@ -1,3 +1,12 @@
+#!/usr/bin/python3
+#this line makes the program runnable standalone i.e. can run the program by just typing:
+#
+# ./add_users file.txt student
+#
+#(rather than having to prepend the command with python3)
+
+#Original author : Ian Johnson
+#Written : April 2016
 
 #to run command line programs
 from os import system
